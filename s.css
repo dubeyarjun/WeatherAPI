@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(6, 177, 234);
+}
+input{
+   
+    border-radius: 5px;
+}
+div{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+#t1{
+    cursor: pointer;
+}
+
